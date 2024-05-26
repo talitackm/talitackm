@@ -1,6 +1,6 @@
 ### Hi there I'm Talita 👋
 **You can find me on [LinkedIn](www.linkedin.com/in/talita-cristiane-krice-moraes)**
-- 👨🏻‍💻 I’m currently looking for opportunities in Data Science 👾
+- 👨🏻‍💻 I’m currently looking for opportunities in Data Science or Analytics👾
 - 🕵️ I'm very interested in how data can change the world around us and develop different things 🤔
 - 💻 I am very curious and I love to learn and improve my skills
 - 🏃‍♀️ I love running.
